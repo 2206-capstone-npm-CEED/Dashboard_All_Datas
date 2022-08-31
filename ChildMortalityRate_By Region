@@ -1,0 +1,1205 @@
+geo	name	time	Child mortality
+africa	Africa	1800	443.51
+africa	Africa	1801	443.47
+africa	Africa	1802	443.44
+africa	Africa	1803	443.41
+africa	Africa	1804	443.37
+africa	Africa	1805	443.32
+africa	Africa	1806	443.29
+africa	Africa	1807	443.26
+africa	Africa	1808	443.22
+africa	Africa	1809	443.19
+africa	Africa	1810	443.16
+africa	Africa	1811	443.12
+africa	Africa	1812	443.09
+africa	Africa	1813	443.06
+africa	Africa	1814	443.03
+africa	Africa	1815	442.98
+africa	Africa	1816	442.95
+africa	Africa	1817	442.92
+africa	Africa	1818	442.89
+africa	Africa	1819	442.86
+africa	Africa	1820	442.84
+africa	Africa	1821	442.82
+africa	Africa	1822	442.81
+africa	Africa	1823	442.79
+africa	Africa	1824	442.77
+africa	Africa	1825	442.74
+africa	Africa	1826	442.72
+africa	Africa	1827	442.7
+africa	Africa	1828	442.68
+africa	Africa	1829	442.66
+africa	Africa	1830	442.64
+africa	Africa	1831	442.62
+africa	Africa	1832	442.6
+africa	Africa	1833	442.57
+africa	Africa	1834	442.54
+africa	Africa	1835	442.52
+africa	Africa	1836	442.49
+africa	Africa	1837	442.47
+africa	Africa	1838	442.44
+africa	Africa	1839	442.41
+africa	Africa	1840	442.37
+africa	Africa	1841	442.33
+africa	Africa	1842	442.28
+africa	Africa	1843	442.22
+africa	Africa	1844	442.14
+africa	Africa	1845	442.08
+africa	Africa	1846	442.02
+africa	Africa	1847	441.96
+africa	Africa	1848	441.9
+africa	Africa	1849	441.85
+africa	Africa	1850	441.81
+africa	Africa	1851	441.79
+africa	Africa	1852	441.78
+africa	Africa	1853	441.78
+africa	Africa	1854	441.77
+africa	Africa	1855	441.77
+africa	Africa	1856	441.77
+africa	Africa	1857	441.77
+africa	Africa	1858	441.77
+africa	Africa	1859	441.77
+africa	Africa	1860	441.77
+africa	Africa	1861	441.76
+africa	Africa	1862	441.69
+africa	Africa	1863	441.62
+africa	Africa	1864	441.56
+africa	Africa	1865	441.5
+africa	Africa	1866	441.45
+africa	Africa	1867	441.4
+africa	Africa	1868	441.35
+africa	Africa	1869	441.31
+africa	Africa	1870	441.26
+africa	Africa	1871	441.23
+africa	Africa	1872	441.27
+africa	Africa	1873	441.51
+africa	Africa	1874	441.35
+africa	Africa	1875	441.33
+africa	Africa	1876	441.29
+africa	Africa	1877	441.26
+africa	Africa	1878	441.27
+africa	Africa	1879	441.21
+africa	Africa	1880	441.18
+africa	Africa	1881	441.29
+africa	Africa	1882	441.31
+africa	Africa	1883	441.39
+africa	Africa	1884	441.24
+africa	Africa	1885	441.25
+africa	Africa	1886	441.18
+africa	Africa	1887	441.26
+africa	Africa	1888	441.19
+africa	Africa	1889	441.06
+africa	Africa	1890	441.18
+africa	Africa	1891	441.13
+africa	Africa	1892	441.21
+africa	Africa	1893	441.2
+africa	Africa	1894	441.07
+africa	Africa	1895	441.06
+africa	Africa	1896	441.25
+africa	Africa	1897	440.89
+africa	Africa	1898	440.52
+africa	Africa	1899	440.18
+africa	Africa	1900	439.91
+africa	Africa	1901	439.51
+africa	Africa	1902	438.87
+africa	Africa	1903	438.12
+africa	Africa	1904	437.39
+africa	Africa	1905	436.82
+africa	Africa	1906	435.95
+africa	Africa	1907	435.03
+africa	Africa	1908	434.17
+africa	Africa	1909	433.1
+africa	Africa	1910	432.03
+africa	Africa	1911	430.89
+africa	Africa	1912	429.89
+africa	Africa	1913	428.7
+africa	Africa	1914	427.64
+africa	Africa	1915	426.63
+africa	Africa	1916	425.43
+africa	Africa	1917	424.46
+africa	Africa	1918	423.4
+africa	Africa	1919	422.33
+africa	Africa	1920	421.18
+africa	Africa	1921	419.96
+africa	Africa	1922	418.77
+africa	Africa	1923	417.86
+africa	Africa	1924	416.73
+africa	Africa	1925	415.61
+africa	Africa	1926	414.5
+africa	Africa	1927	413.38
+africa	Africa	1928	413.87
+africa	Africa	1929	412.4
+africa	Africa	1930	406.39
+africa	Africa	1931	406.46
+africa	Africa	1932	405
+africa	Africa	1933	401.06
+africa	Africa	1934	399.06
+africa	Africa	1935	394.88
+africa	Africa	1936	393.79
+africa	Africa	1937	388.37
+africa	Africa	1938	385.45
+africa	Africa	1939	381.79
+africa	Africa	1940	380.41
+africa	Africa	1941	374.32
+africa	Africa	1942	373.87
+africa	Africa	1943	369.56
+africa	Africa	1944	361.19
+africa	Africa	1945	356.65
+africa	Africa	1946	348.33
+africa	Africa	1947	340.21
+africa	Africa	1948	332.61
+africa	Africa	1949	325.03
+africa	Africa	1950	317.78
+africa	Africa	1951	315.65
+africa	Africa	1952	312.02
+africa	Africa	1953	308.01
+africa	Africa	1954	305
+africa	Africa	1955	300.75
+africa	Africa	1956	296
+africa	Africa	1957	291.1
+africa	Africa	1958	286.26
+africa	Africa	1959	281.44
+africa	Africa	1960	276.75
+africa	Africa	1961	272.12
+africa	Africa	1962	267.63
+africa	Africa	1963	263.28
+africa	Africa	1964	259.02
+africa	Africa	1965	254.57
+africa	Africa	1966	250.39
+africa	Africa	1967	246.58
+africa	Africa	1968	242.88
+africa	Africa	1969	239.13
+africa	Africa	1970	235.36
+africa	Africa	1971	231.46
+africa	Africa	1972	227.37
+africa	Africa	1973	223.13
+africa	Africa	1974	218.59
+africa	Africa	1975	213.84
+africa	Africa	1976	209.11
+africa	Africa	1977	204.43
+africa	Africa	1978	199.82
+africa	Africa	1979	195.34
+africa	Africa	1980	191.08
+africa	Africa	1981	186.99
+africa	Africa	1982	183.14
+africa	Africa	1983	179.62
+africa	Africa	1984	176.5
+africa	Africa	1985	173.78
+africa	Africa	1986	171.49
+africa	Africa	1987	169.6
+africa	Africa	1988	167.99
+africa	Africa	1989	166.63
+africa	Africa	1990	165.43
+africa	Africa	1991	164.31
+africa	Africa	1992	163.15
+africa	Africa	1993	162.01
+africa	Africa	1994	161.38
+africa	Africa	1995	159.08
+africa	Africa	1996	156.36
+africa	Africa	1997	153.93
+africa	Africa	1998	151.03
+africa	Africa	1999	147.1
+africa	Africa	2000	142.96
+africa	Africa	2001	138.3
+africa	Africa	2002	133.33
+africa	Africa	2003	128.21
+africa	Africa	2004	123.05
+africa	Africa	2005	118
+africa	Africa	2006	113.11
+africa	Africa	2007	108.32
+africa	Africa	2008	103.67
+africa	Africa	2009	99.26
+africa	Africa	2010	95.19
+africa	Africa	2011	91.42
+africa	Africa	2012	87.99
+africa	Africa	2013	84.89
+africa	Africa	2014	82.11
+africa	Africa	2015	79.59
+africa	Africa	2016	77.2
+africa	Africa	2017	74.99
+africa	Africa	2018	72.84
+africa	Africa	2019	70.78
+africa	Africa	2020	68.88
+africa	Africa	2021	67.11
+africa	Africa	2022	65.45
+africa	Africa	2023	63.87
+africa	Africa	2024	62.36
+africa	Africa	2025	60.89
+africa	Africa	2026	59.45
+africa	Africa	2027	58.07
+africa	Africa	2028	56.73
+africa	Africa	2029	55.43
+africa	Africa	2030	54.17
+africa	Africa	2031	52.94
+africa	Africa	2032	51.75
+africa	Africa	2033	50.6
+africa	Africa	2034	49.48
+africa	Africa	2035	48.4
+africa	Africa	2036	47.35
+africa	Africa	2037	46.32
+africa	Africa	2038	45.33
+africa	Africa	2039	44.37
+africa	Africa	2040	43.44
+africa	Africa	2041	42.54
+africa	Africa	2042	41.66
+africa	Africa	2043	40.81
+africa	Africa	2044	39.99
+africa	Africa	2045	39.18
+africa	Africa	2046	38.41
+africa	Africa	2047	37.66
+africa	Africa	2048	36.94
+africa	Africa	2049	36.24
+africa	Africa	2050	35.56
+africa	Africa	2051	34.91
+africa	Africa	2052	34.27
+africa	Africa	2053	33.66
+africa	Africa	2054	33.06
+africa	Africa	2055	32.48
+africa	Africa	2056	31.92
+africa	Africa	2057	31.37
+africa	Africa	2058	30.84
+africa	Africa	2059	30.33
+africa	Africa	2060	29.83
+africa	Africa	2061	29.34
+africa	Africa	2062	28.87
+africa	Africa	2063	28.41
+africa	Africa	2064	27.96
+africa	Africa	2065	27.53
+africa	Africa	2066	27.1
+africa	Africa	2067	26.69
+africa	Africa	2068	26.3
+africa	Africa	2069	25.91
+africa	Africa	2070	25.54
+africa	Africa	2071	25.18
+africa	Africa	2072	24.82
+africa	Africa	2073	24.48
+africa	Africa	2074	24.14
+africa	Africa	2075	23.81
+africa	Africa	2076	23.49
+africa	Africa	2077	23.18
+africa	Africa	2078	22.87
+africa	Africa	2079	22.57
+africa	Africa	2080	22.28
+africa	Africa	2081	21.99
+africa	Africa	2082	21.71
+africa	Africa	2083	21.44
+africa	Africa	2084	21.17
+africa	Africa	2085	20.9
+africa	Africa	2086	20.65
+africa	Africa	2087	20.4
+africa	Africa	2088	20.16
+africa	Africa	2089	19.92
+africa	Africa	2090	19.69
+africa	Africa	2091	19.46
+africa	Africa	2092	19.24
+africa	Africa	2093	19.02
+africa	Africa	2094	18.8
+africa	Africa	2095	18.59
+africa	Africa	2096	18.38
+africa	Africa	2097	18.17
+africa	Africa	2098	17.97
+africa	Africa	2099	17.77
+africa	Africa	2100	17.78
+asia	Asia	1800	454.23
+asia	Asia	1801	454.16
+asia	Asia	1802	454.09
+asia	Asia	1803	454.02
+asia	Asia	1804	453.95
+asia	Asia	1805	453.88
+asia	Asia	1806	453.81
+asia	Asia	1807	453.74
+asia	Asia	1808	453.66
+asia	Asia	1809	453.59
+asia	Asia	1810	453.46
+asia	Asia	1811	453.33
+asia	Asia	1812	453.19
+asia	Asia	1813	453.04
+asia	Asia	1814	452.9
+asia	Asia	1815	452.75
+asia	Asia	1816	452.62
+asia	Asia	1817	452.48
+asia	Asia	1818	452.34
+asia	Asia	1819	452.22
+asia	Asia	1820	452.11
+asia	Asia	1821	451.99
+asia	Asia	1822	451.89
+asia	Asia	1823	451.83
+asia	Asia	1824	451.78
+asia	Asia	1825	451.72
+asia	Asia	1826	451.68
+asia	Asia	1827	451.62
+asia	Asia	1828	451.57
+asia	Asia	1829	451.54
+asia	Asia	1830	451.53
+asia	Asia	1831	451.54
+asia	Asia	1832	451.58
+asia	Asia	1833	451.63
+asia	Asia	1834	451.69
+asia	Asia	1835	451.74
+asia	Asia	1836	451.81
+asia	Asia	1837	451.86
+asia	Asia	1838	451.92
+asia	Asia	1839	451.97
+asia	Asia	1840	452.03
+asia	Asia	1841	452.08
+asia	Asia	1842	452.14
+asia	Asia	1843	452.2
+asia	Asia	1844	452.26
+asia	Asia	1845	452.33
+asia	Asia	1846	452.39
+asia	Asia	1847	452.45
+asia	Asia	1848	452.51
+asia	Asia	1849	452.59
+asia	Asia	1850	452.71
+asia	Asia	1851	459.11
+asia	Asia	1852	465.61
+asia	Asia	1853	472.17
+asia	Asia	1854	478.8
+asia	Asia	1855	485.5
+asia	Asia	1856	492.27
+asia	Asia	1857	488.11
+asia	Asia	1858	483.39
+asia	Asia	1859	479.45
+asia	Asia	1860	475.63
+asia	Asia	1861	471.84
+asia	Asia	1862	467.55
+asia	Asia	1863	463.98
+asia	Asia	1864	460.6
+asia	Asia	1865	460.2
+asia	Asia	1866	459.22
+asia	Asia	1867	458.83
+asia	Asia	1868	457.89
+asia	Asia	1869	457.45
+asia	Asia	1870	456.43
+asia	Asia	1871	455.96
+asia	Asia	1872	456.08
+asia	Asia	1873	456.13
+asia	Asia	1874	456.01
+asia	Asia	1875	455.88
+asia	Asia	1876	455.7
+asia	Asia	1877	455.81
+asia	Asia	1878	455.97
+asia	Asia	1879	455.99
+asia	Asia	1880	456.03
+asia	Asia	1881	455.86
+asia	Asia	1882	456.57
+asia	Asia	1883	456.79
+asia	Asia	1884	457.38
+asia	Asia	1885	457.87
+asia	Asia	1886	458.33
+asia	Asia	1887	459.27
+asia	Asia	1888	459.51
+asia	Asia	1889	460.14
+asia	Asia	1890	460.77
+asia	Asia	1891	461.44
+asia	Asia	1892	461.48
+asia	Asia	1893	462.07
+asia	Asia	1894	462.37
+asia	Asia	1895	462.2
+asia	Asia	1896	462.47
+asia	Asia	1897	462.45
+asia	Asia	1898	462.75
+asia	Asia	1899	462.84
+asia	Asia	1900	462.33
+asia	Asia	1901	461.93
+asia	Asia	1902	456.41
+asia	Asia	1903	445.91
+asia	Asia	1904	438.49
+asia	Asia	1905	431.28
+asia	Asia	1906	424.48
+asia	Asia	1907	417.12
+asia	Asia	1908	410.44
+asia	Asia	1909	403.87
+asia	Asia	1910	397.71
+asia	Asia	1911	391.45
+asia	Asia	1912	392.03
+asia	Asia	1913	384.65
+asia	Asia	1914	391.99
+asia	Asia	1915	386.41
+asia	Asia	1916	385.36
+asia	Asia	1917	386.12
+asia	Asia	1918	416.41
+asia	Asia	1919	394.21
+asia	Asia	1920	379.2
+asia	Asia	1921	380.96
+asia	Asia	1922	367.57
+asia	Asia	1923	366.4
+asia	Asia	1924	370.92
+asia	Asia	1925	360.88
+asia	Asia	1926	366.33
+asia	Asia	1927	354.54
+asia	Asia	1928	354.95
+asia	Asia	1929	356.28
+asia	Asia	1930	354.47
+asia	Asia	1931	349.51
+asia	Asia	1932	338.57
+asia	Asia	1933	335.71
+asia	Asia	1934	340.26
+asia	Asia	1935	322.25
+asia	Asia	1936	318.12
+asia	Asia	1937	313.53
+asia	Asia	1938	315.03
+asia	Asia	1939	306.42
+asia	Asia	1940	305.21
+asia	Asia	1941	302.29
+asia	Asia	1942	304.04
+asia	Asia	1943	303.36
+asia	Asia	1944	304.37
+asia	Asia	1945	294.04
+asia	Asia	1946	293.72
+asia	Asia	1947	292.1
+asia	Asia	1948	288.93
+asia	Asia	1949	289.62
+asia	Asia	1950	289.45
+asia	Asia	1951	283.97
+asia	Asia	1952	278.99
+asia	Asia	1953	272.24
+asia	Asia	1954	266.83
+asia	Asia	1955	261.15
+asia	Asia	1956	248.65
+asia	Asia	1957	238.27
+asia	Asia	1958	227.45
+asia	Asia	1959	235.18
+asia	Asia	1960	243.86
+asia	Asia	1961	223.84
+asia	Asia	1962	190.33
+asia	Asia	1963	177.21
+asia	Asia	1964	170.37
+asia	Asia	1965	162.22
+asia	Asia	1966	161.67
+asia	Asia	1967	165.7
+asia	Asia	1968	161.02
+asia	Asia	1969	155.14
+asia	Asia	1970	150.18
+asia	Asia	1971	146.71
+asia	Asia	1972	143.98
+asia	Asia	1973	141.24
+asia	Asia	1974	138.38
+asia	Asia	1975	136.62
+asia	Asia	1976	133.73
+asia	Asia	1977	131.36
+asia	Asia	1978	127.75
+asia	Asia	1979	123.26
+asia	Asia	1980	121.95
+asia	Asia	1981	115.79
+asia	Asia	1982	112.74
+asia	Asia	1983	108.88
+asia	Asia	1984	105.57
+asia	Asia	1985	102.47
+asia	Asia	1986	99.67
+asia	Asia	1987	97.06
+asia	Asia	1988	94.69
+asia	Asia	1989	92.55
+asia	Asia	1990	90.62
+asia	Asia	1991	88.86
+asia	Asia	1992	87.14
+asia	Asia	1993	85.39
+asia	Asia	1994	83.55
+asia	Asia	1995	81.55
+asia	Asia	1996	79.33
+asia	Asia	1997	76.94
+asia	Asia	1998	74.38
+asia	Asia	1999	71.65
+asia	Asia	2000	68.79
+asia	Asia	2001	65.85
+asia	Asia	2002	62.88
+asia	Asia	2003	59.95
+asia	Asia	2004	57.44
+asia	Asia	2005	54.22
+asia	Asia	2006	51.54
+asia	Asia	2007	48.97
+asia	Asia	2008	46.76
+asia	Asia	2009	44.11
+asia	Asia	2010	41.83
+asia	Asia	2011	39.67
+asia	Asia	2012	37.64
+asia	Asia	2013	35.72
+asia	Asia	2014	33.91
+asia	Asia	2015	32.23
+asia	Asia	2016	30.65
+asia	Asia	2017	29.17
+asia	Asia	2018	27.83
+asia	Asia	2019	26.93
+asia	Asia	2020	26.08
+asia	Asia	2021	25.28
+asia	Asia	2022	24.53
+asia	Asia	2023	23.8
+asia	Asia	2024	23.11
+asia	Asia	2025	22.45
+asia	Asia	2026	21.8
+asia	Asia	2027	21.18
+asia	Asia	2028	20.59
+asia	Asia	2029	20.02
+asia	Asia	2030	19.48
+asia	Asia	2031	18.97
+asia	Asia	2032	18.48
+asia	Asia	2033	18.01
+asia	Asia	2034	17.56
+asia	Asia	2035	17.14
+asia	Asia	2036	16.73
+asia	Asia	2037	16.34
+asia	Asia	2038	15.96
+asia	Asia	2039	15.6
+asia	Asia	2040	15.25
+asia	Asia	2041	14.91
+asia	Asia	2042	14.58
+asia	Asia	2043	14.26
+asia	Asia	2044	13.95
+asia	Asia	2045	13.66
+asia	Asia	2046	13.37
+asia	Asia	2047	13.09
+asia	Asia	2048	12.83
+asia	Asia	2049	12.57
+asia	Asia	2050	12.31
+asia	Asia	2051	12.07
+asia	Asia	2052	11.83
+asia	Asia	2053	11.6
+asia	Asia	2054	11.38
+asia	Asia	2055	11.16
+asia	Asia	2056	10.95
+asia	Asia	2057	10.74
+asia	Asia	2058	10.55
+asia	Asia	2059	10.36
+asia	Asia	2060	10.17
+asia	Asia	2061	9.99
+asia	Asia	2062	9.82
+asia	Asia	2063	9.65
+asia	Asia	2064	9.48
+asia	Asia	2065	9.32
+asia	Asia	2066	9.16
+asia	Asia	2067	9.01
+asia	Asia	2068	8.86
+asia	Asia	2069	8.71
+asia	Asia	2070	8.57
+asia	Asia	2071	8.43
+asia	Asia	2072	8.29
+asia	Asia	2073	8.16
+asia	Asia	2074	8.03
+asia	Asia	2075	7.9
+asia	Asia	2076	7.78
+asia	Asia	2077	7.65
+asia	Asia	2078	7.53
+asia	Asia	2079	7.42
+asia	Asia	2080	7.31
+asia	Asia	2081	7.19
+asia	Asia	2082	7.09
+asia	Asia	2083	6.98
+asia	Asia	2084	6.88
+asia	Asia	2085	6.77
+asia	Asia	2086	6.68
+asia	Asia	2087	6.57
+asia	Asia	2088	6.48
+asia	Asia	2089	6.39
+asia	Asia	2090	6.29
+asia	Asia	2091	6.2
+asia	Asia	2092	6.12
+asia	Asia	2093	6.03
+asia	Asia	2094	5.95
+asia	Asia	2095	5.86
+asia	Asia	2096	5.78
+asia	Asia	2097	5.7
+asia	Asia	2098	5.62
+asia	Asia	2099	5.55
+asia	Asia	2100	5.55
+europe	Europe	1800	390.92
+europe	Europe	1801	389.69
+europe	Europe	1802	387.74
+europe	Europe	1803	386.53
+europe	Europe	1804	385.6
+europe	Europe	1805	384.51
+europe	Europe	1806	384.26
+europe	Europe	1807	382.57
+europe	Europe	1808	381.73
+europe	Europe	1809	380.49
+europe	Europe	1810	378.9
+europe	Europe	1811	377.25
+europe	Europe	1812	375.74
+europe	Europe	1813	374.3
+europe	Europe	1814	373.37
+europe	Europe	1815	371.04
+europe	Europe	1816	369.88
+europe	Europe	1817	370.75
+europe	Europe	1818	371.5
+europe	Europe	1819	373.38
+europe	Europe	1820	370.31
+europe	Europe	1821	370.69
+europe	Europe	1822	372.22
+europe	Europe	1823	369.81
+europe	Europe	1824	371.5
+europe	Europe	1825	371.29
+europe	Europe	1826	371.06
+europe	Europe	1827	370.28
+europe	Europe	1828	374.17
+europe	Europe	1829	373.17
+europe	Europe	1830	375.24
+europe	Europe	1831	377.6
+europe	Europe	1832	378.88
+europe	Europe	1833	378.42
+europe	Europe	1834	384.13
+europe	Europe	1835	378.53
+europe	Europe	1836	377.91
+europe	Europe	1837	381.47
+europe	Europe	1838	380.83
+europe	Europe	1839	376.96
+europe	Europe	1840	377.45
+europe	Europe	1841	377.23
+europe	Europe	1842	382.69
+europe	Europe	1843	376.77
+europe	Europe	1844	374.48
+europe	Europe	1845	373.58
+europe	Europe	1846	389.59
+europe	Europe	1847	382.14
+europe	Europe	1848	388.09
+europe	Europe	1849	385.28
+europe	Europe	1850	374.22
+europe	Europe	1851	374.15
+europe	Europe	1852	376.11
+europe	Europe	1853	371.92
+europe	Europe	1854	378.03
+europe	Europe	1855	373.77
+europe	Europe	1856	363.56
+europe	Europe	1857	375.65
+europe	Europe	1858	372.04
+europe	Europe	1859	383.16
+europe	Europe	1860	358.22
+europe	Europe	1861	365.53
+europe	Europe	1862	364.93
+europe	Europe	1863	371.34
+europe	Europe	1864	370.16
+europe	Europe	1865	376.12
+europe	Europe	1866	367.32
+europe	Europe	1867	365.12
+europe	Europe	1868	387.67
+europe	Europe	1869	374.07
+europe	Europe	1870	368.26
+europe	Europe	1871	385.71
+europe	Europe	1872	379.85
+europe	Europe	1873	368.56
+europe	Europe	1874	366.18
+europe	Europe	1875	357.1
+europe	Europe	1876	353.32
+europe	Europe	1877	344.06
+europe	Europe	1878	361.07
+europe	Europe	1879	339.96
+europe	Europe	1880	362.56
+europe	Europe	1881	340.52
+europe	Europe	1882	362.09
+europe	Europe	1883	354.24
+europe	Europe	1884	344.31
+europe	Europe	1885	345.32
+europe	Europe	1886	342.1
+europe	Europe	1887	340.67
+europe	Europe	1888	337.58
+europe	Europe	1889	345.72
+europe	Europe	1890	354.48
+europe	Europe	1891	347.99
+europe	Europe	1892	361.3
+europe	Europe	1893	340.41
+europe	Europe	1894	340.84
+europe	Europe	1895	349.22
+europe	Europe	1896	339.62
+europe	Europe	1897	335.21
+europe	Europe	1898	341.2
+europe	Europe	1899	326.78
+europe	Europe	1900	334.64
+europe	Europe	1901	330.4
+europe	Europe	1902	319.49
+europe	Europe	1903	320.7
+europe	Europe	1904	312.54
+europe	Europe	1905	324.88
+europe	Europe	1906	311.74
+europe	Europe	1907	297.25
+europe	Europe	1908	307.36
+europe	Europe	1909	302.93
+europe	Europe	1910	306.91
+europe	Europe	1911	306.88
+europe	Europe	1912	285.79
+europe	Europe	1913	285.72
+europe	Europe	1914	282.92
+europe	Europe	1915	276.18
+europe	Europe	1916	275.89
+europe	Europe	1917	277.1
+europe	Europe	1918	295.88
+europe	Europe	1919	267.13
+europe	Europe	1920	267.59
+europe	Europe	1921	254.68
+europe	Europe	1922	249.62
+europe	Europe	1923	245.8
+europe	Europe	1924	237.99
+europe	Europe	1925	233.06
+europe	Europe	1926	229.56
+europe	Europe	1927	226.6
+europe	Europe	1928	221.21
+europe	Europe	1929	222.18
+europe	Europe	1930	211.21
+europe	Europe	1931	210.05
+europe	Europe	1932	207.15
+europe	Europe	1933	197.05
+europe	Europe	1934	192.27
+europe	Europe	1935	195.42
+europe	Europe	1936	189.07
+europe	Europe	1937	189.95
+europe	Europe	1938	184.59
+europe	Europe	1939	181.15
+europe	Europe	1940	181.64
+europe	Europe	1941	197.06
+europe	Europe	1942	198.34
+europe	Europe	1943	193.38
+europe	Europe	1944	175.79
+europe	Europe	1945	175.58
+europe	Europe	1946	150.27
+europe	Europe	1947	149.9
+europe	Europe	1948	133.87
+europe	Europe	1949	132.6
+europe	Europe	1950	126.76
+europe	Europe	1951	124.01
+europe	Europe	1952	114.97
+europe	Europe	1953	107.34
+europe	Europe	1954	101.64
+europe	Europe	1955	95.58
+europe	Europe	1956	90.35
+europe	Europe	1957	85.93
+europe	Europe	1958	81.11
+europe	Europe	1959	77.67
+europe	Europe	1960	73.45
+europe	Europe	1961	69.84
+europe	Europe	1962	66.67
+europe	Europe	1963	63.56
+europe	Europe	1964	60.77
+europe	Europe	1965	58.67
+europe	Europe	1966	57.05
+europe	Europe	1967	56.05
+europe	Europe	1968	54.98
+europe	Europe	1969	53.58
+europe	Europe	1970	52.14
+europe	Europe	1971	50.54
+europe	Europe	1972	49.02
+europe	Europe	1973	47.69
+europe	Europe	1974	46.17
+europe	Europe	1975	44.65
+europe	Europe	1976	43.07
+europe	Europe	1977	41.48
+europe	Europe	1978	39.94
+europe	Europe	1979	38.42
+europe	Europe	1980	36.94
+europe	Europe	1981	35.4
+europe	Europe	1982	33.94
+europe	Europe	1983	32.46
+europe	Europe	1984	31.06
+europe	Europe	1985	29.72
+europe	Europe	1986	28.42
+europe	Europe	1987	27.23
+europe	Europe	1988	26.22
+europe	Europe	1989	24.96
+europe	Europe	1990	23.91
+europe	Europe	1991	23.04
+europe	Europe	1992	22.29
+europe	Europe	1993	21.54
+europe	Europe	1994	20.73
+europe	Europe	1995	19.85
+europe	Europe	1996	18.92
+europe	Europe	1997	17.96
+europe	Europe	1998	16.99
+europe	Europe	1999	15.99
+europe	Europe	2000	15.03
+europe	Europe	2001	14.11
+europe	Europe	2002	13.22
+europe	Europe	2003	12.37
+europe	Europe	2004	11.55
+europe	Europe	2005	10.78
+europe	Europe	2006	10.09
+europe	Europe	2007	9.52
+europe	Europe	2008	8.99
+europe	Europe	2009	8.55
+europe	Europe	2010	8.19
+europe	Europe	2011	7.88
+europe	Europe	2012	7.6
+europe	Europe	2013	7.33
+europe	Europe	2014	7.05
+europe	Europe	2015	6.77
+europe	Europe	2016	6.49
+europe	Europe	2017	6.22
+europe	Europe	2018	5.97
+europe	Europe	2019	5.74
+europe	Europe	2020	5.53
+europe	Europe	2021	5.35
+europe	Europe	2022	5.18
+europe	Europe	2023	5.02
+europe	Europe	2024	4.87
+europe	Europe	2025	4.73
+europe	Europe	2026	4.59
+europe	Europe	2027	4.46
+europe	Europe	2028	4.33
+europe	Europe	2029	4.21
+europe	Europe	2030	4.09
+europe	Europe	2031	3.98
+europe	Europe	2032	3.87
+europe	Europe	2033	3.76
+europe	Europe	2034	3.66
+europe	Europe	2035	3.56
+europe	Europe	2036	3.47
+europe	Europe	2037	3.38
+europe	Europe	2038	3.3
+europe	Europe	2039	3.22
+europe	Europe	2040	3.14
+europe	Europe	2041	3.07
+europe	Europe	2042	2.99
+europe	Europe	2043	2.93
+europe	Europe	2044	2.86
+europe	Europe	2045	2.8
+europe	Europe	2046	2.73
+europe	Europe	2047	2.68
+europe	Europe	2048	2.62
+europe	Europe	2049	2.56
+europe	Europe	2050	2.51
+europe	Europe	2051	2.45
+europe	Europe	2052	2.41
+europe	Europe	2053	2.36
+europe	Europe	2054	2.31
+europe	Europe	2055	2.27
+europe	Europe	2056	2.22
+europe	Europe	2057	2.18
+europe	Europe	2058	2.14
+europe	Europe	2059	2.1
+europe	Europe	2060	2.06
+europe	Europe	2061	2.02
+europe	Europe	2062	1.98
+europe	Europe	2063	1.95
+europe	Europe	2064	1.91
+europe	Europe	2065	1.88
+europe	Europe	2066	1.84
+europe	Europe	2067	1.81
+europe	Europe	2068	1.78
+europe	Europe	2069	1.75
+europe	Europe	2070	1.72
+europe	Europe	2071	1.69
+europe	Europe	2072	1.66
+europe	Europe	2073	1.63
+europe	Europe	2074	1.61
+europe	Europe	2075	1.58
+europe	Europe	2076	1.55
+europe	Europe	2077	1.53
+europe	Europe	2078	1.5
+europe	Europe	2079	1.48
+europe	Europe	2080	1.46
+europe	Europe	2081	1.43
+europe	Europe	2082	1.41
+europe	Europe	2083	1.39
+europe	Europe	2084	1.37
+europe	Europe	2085	1.35
+europe	Europe	2086	1.33
+europe	Europe	2087	1.31
+europe	Europe	2088	1.29
+europe	Europe	2089	1.27
+europe	Europe	2090	1.25
+europe	Europe	2091	1.23
+europe	Europe	2092	1.21
+europe	Europe	2093	1.19
+europe	Europe	2094	1.18
+europe	Europe	2095	1.16
+europe	Europe	2096	1.14
+europe	Europe	2097	1.13
+europe	Europe	2098	1.11
+europe	Europe	2099	1.09
+europe	Europe	2100	1.09
+americas	The Americas	1800	407.46
+americas	The Americas	1801	407.36
+americas	The Americas	1802	407.24
+americas	The Americas	1803	407.14
+americas	The Americas	1804	407.03
+americas	The Americas	1805	406.91
+americas	The Americas	1806	406.8
+americas	The Americas	1807	406.68
+americas	The Americas	1808	406.57
+americas	The Americas	1809	406.43
+americas	The Americas	1810	406.16
+americas	The Americas	1811	405.86
+americas	The Americas	1812	405.53
+americas	The Americas	1813	405.13
+americas	The Americas	1814	404.76
+americas	The Americas	1815	404.38
+americas	The Americas	1816	404
+americas	The Americas	1817	403.62
+americas	The Americas	1818	403.25
+americas	The Americas	1819	402.82
+americas	The Americas	1820	402.3
+americas	The Americas	1821	401.68
+americas	The Americas	1822	401.04
+americas	The Americas	1823	400.32
+americas	The Americas	1824	399.64
+americas	The Americas	1825	399.06
+americas	The Americas	1826	398.48
+americas	The Americas	1827	397.92
+americas	The Americas	1828	397.35
+americas	The Americas	1829	396.85
+americas	The Americas	1830	396.29
+americas	The Americas	1831	395.76
+americas	The Americas	1832	395.23
+americas	The Americas	1833	394.75
+americas	The Americas	1834	394.29
+americas	The Americas	1835	393.8
+americas	The Americas	1836	393.38
+americas	The Americas	1837	392.94
+americas	The Americas	1838	392.52
+americas	The Americas	1839	392.02
+americas	The Americas	1840	391.59
+americas	The Americas	1841	391.23
+americas	The Americas	1842	390.87
+americas	The Americas	1843	390.48
+americas	The Americas	1844	390.12
+americas	The Americas	1845	389.71
+americas	The Americas	1846	389.27
+americas	The Americas	1847	388.86
+americas	The Americas	1848	388.46
+americas	The Americas	1849	388.09
+americas	The Americas	1850	387.73
+americas	The Americas	1851	387.42
+americas	The Americas	1852	387.16
+americas	The Americas	1853	386.89
+americas	The Americas	1854	386.64
+americas	The Americas	1855	386.41
+americas	The Americas	1856	386.22
+americas	The Americas	1857	385.93
+americas	The Americas	1858	385.66
+americas	The Americas	1859	385.41
+americas	The Americas	1860	385.41
+americas	The Americas	1861	385.01
+americas	The Americas	1862	384.87
+americas	The Americas	1863	384.68
+americas	The Americas	1864	384.55
+americas	The Americas	1865	384.4
+americas	The Americas	1866	384.44
+americas	The Americas	1867	384.43
+americas	The Americas	1868	384.46
+americas	The Americas	1869	384.48
+americas	The Americas	1870	384.2
+americas	The Americas	1871	383.96
+americas	The Americas	1872	383.71
+americas	The Americas	1873	383.5
+americas	The Americas	1874	383.25
+americas	The Americas	1875	382.74
+americas	The Americas	1876	382.24
+americas	The Americas	1877	381.75
+americas	The Americas	1878	381.31
+americas	The Americas	1879	380.99
+americas	The Americas	1880	380.85
+americas	The Americas	1881	377.69
+americas	The Americas	1882	374.29
+americas	The Americas	1883	371.47
+americas	The Americas	1884	369.06
+americas	The Americas	1885	365.8
+americas	The Americas	1886	362.98
+americas	The Americas	1887	360.3
+americas	The Americas	1888	357.53
+americas	The Americas	1889	355.44
+americas	The Americas	1890	353.59
+americas	The Americas	1891	354.87
+americas	The Americas	1892	356.86
+americas	The Americas	1893	359.43
+americas	The Americas	1894	353.11
+americas	The Americas	1895	347.06
+americas	The Americas	1896	346.97
+americas	The Americas	1897	350.09
+americas	The Americas	1898	347.04
+americas	The Americas	1899	349.39
+americas	The Americas	1900	341.9
+americas	The Americas	1901	340.22
+americas	The Americas	1902	326.53
+americas	The Americas	1903	324.39
+americas	The Americas	1904	326.48
+americas	The Americas	1905	325.3
+americas	The Americas	1906	327.82
+americas	The Americas	1907	327.29
+americas	The Americas	1908	321.8
+americas	The Americas	1909	312.95
+americas	The Americas	1910	317.75
+americas	The Americas	1911	313.85
+americas	The Americas	1912	306.17
+americas	The Americas	1913	306.62
+americas	The Americas	1914	297.42
+americas	The Americas	1915	292.89
+americas	The Americas	1916	294.38
+americas	The Americas	1917	294.46
+americas	The Americas	1918	317.11
+americas	The Americas	1919	293.08
+americas	The Americas	1920	287.05
+americas	The Americas	1921	271.52
+americas	The Americas	1922	270.97
+americas	The Americas	1923	271.94
+americas	The Americas	1924	265.8
+americas	The Americas	1925	262.1
+americas	The Americas	1926	258.87
+americas	The Americas	1927	248.62
+americas	The Americas	1928	250.95
+americas	The Americas	1929	248.56
+americas	The Americas	1930	242.57
+americas	The Americas	1931	241.47
+americas	The Americas	1932	238.51
+americas	The Americas	1933	245.55
+americas	The Americas	1934	239.92
+americas	The Americas	1935	239.34
+americas	The Americas	1936	238.16
+americas	The Americas	1937	235.66
+americas	The Americas	1938	228.84
+americas	The Americas	1939	217.23
+americas	The Americas	1940	217.37
+americas	The Americas	1941	205.88
+americas	The Americas	1942	198.42
+americas	The Americas	1943	188.82
+americas	The Americas	1944	185.07
+americas	The Americas	1945	179.97
+americas	The Americas	1946	167.19
+americas	The Americas	1947	157.1
+americas	The Americas	1948	152.25
+americas	The Americas	1949	152.33
+americas	The Americas	1950	146.91
+americas	The Americas	1951	148.14
+americas	The Americas	1952	143.25
+americas	The Americas	1953	138.45
+americas	The Americas	1954	133.15
+americas	The Americas	1955	129.3
+americas	The Americas	1956	124.06
+americas	The Americas	1957	120.31
+americas	The Americas	1958	117
+americas	The Americas	1959	113.75
+americas	The Americas	1960	110.73
+americas	The Americas	1961	108.05
+americas	The Americas	1962	106.23
+americas	The Americas	1963	104.36
+americas	The Americas	1964	102.55
+americas	The Americas	1965	102.03
+americas	The Americas	1966	101.05
+americas	The Americas	1967	99.66
+americas	The Americas	1968	98.11
+americas	The Americas	1969	96.02
+americas	The Americas	1970	93.42
+americas	The Americas	1971	92.17
+americas	The Americas	1972	91.35
+americas	The Americas	1973	89.59
+americas	The Americas	1974	87.04
+americas	The Americas	1975	84.57
+americas	The Americas	1976	81.81
+americas	The Americas	1977	78.47
+americas	The Americas	1978	75.62
+americas	The Americas	1979	72.15
+americas	The Americas	1980	68.84
+americas	The Americas	1981	65.84
+americas	The Americas	1982	62.77
+americas	The Americas	1983	60.08
+americas	The Americas	1984	57.32
+americas	The Americas	1985	54.56
+americas	The Americas	1986	52.17
+americas	The Americas	1987	49.76
+americas	The Americas	1988	47.36
+americas	The Americas	1989	44.95
+americas	The Americas	1990	42.66
+americas	The Americas	1991	40.74
+americas	The Americas	1992	38.85
+americas	The Americas	1993	37.02
+americas	The Americas	1994	35.2
+americas	The Americas	1995	33.44
+americas	The Americas	1996	31.72
+americas	The Americas	1997	30.07
+americas	The Americas	1998	28.7
+americas	The Americas	1999	27.05
+americas	The Americas	2000	25.35
+americas	The Americas	2001	24.09
+americas	The Americas	2002	22.9
+americas	The Americas	2003	21.72
+americas	The Americas	2004	20.67
+americas	The Americas	2005	19.72
+americas	The Americas	2006	18.77
+americas	The Americas	2007	17.97
+americas	The Americas	2008	17.32
+americas	The Americas	2009	16.78
+americas	The Americas	2010	18.56
+americas	The Americas	2011	15.79
+americas	The Americas	2012	15.29
+americas	The Americas	2013	14.72
+americas	The Americas	2014	14.34
+americas	The Americas	2015	14.05
+americas	The Americas	2016	14.09
+americas	The Americas	2017	13.46
+americas	The Americas	2018	13.04
+americas	The Americas	2019	12.8
+americas	The Americas	2020	12.54
+americas	The Americas	2021	12.27
+americas	The Americas	2022	11.99
+americas	The Americas	2023	11.7
+americas	The Americas	2024	11.4
+americas	The Americas	2025	11.08
+americas	The Americas	2026	10.76
+americas	The Americas	2027	10.43
+americas	The Americas	2028	10.11
+americas	The Americas	2029	9.79
+americas	The Americas	2030	9.49
+americas	The Americas	2031	9.21
+americas	The Americas	2032	8.94
+americas	The Americas	2033	8.68
+americas	The Americas	2034	8.45
+americas	The Americas	2035	8.23
+americas	The Americas	2036	8.03
+americas	The Americas	2037	7.83
+americas	The Americas	2038	7.65
+americas	The Americas	2039	7.47
+americas	The Americas	2040	7.3
+americas	The Americas	2041	7.12
+americas	The Americas	2042	6.96
+americas	The Americas	2043	6.8
+americas	The Americas	2044	6.64
+americas	The Americas	2045	6.49
+americas	The Americas	2046	6.35
+americas	The Americas	2047	6.2
+americas	The Americas	2048	6.07
+americas	The Americas	2049	5.94
+americas	The Americas	2050	5.82
+americas	The Americas	2051	5.7
+americas	The Americas	2052	5.58
+americas	The Americas	2053	5.47
+americas	The Americas	2054	5.36
+americas	The Americas	2055	5.26
+americas	The Americas	2056	5.15
+americas	The Americas	2057	5.05
+americas	The Americas	2058	4.96
+americas	The Americas	2059	4.86
+americas	The Americas	2060	4.78
+americas	The Americas	2061	4.69
+americas	The Americas	2062	4.6
+americas	The Americas	2063	4.52
+americas	The Americas	2064	4.44
+americas	The Americas	2065	4.36
+americas	The Americas	2066	4.29
+americas	The Americas	2067	4.21
+americas	The Americas	2068	4.14
+americas	The Americas	2069	4.07
+americas	The Americas	2070	4
+americas	The Americas	2071	3.94
+americas	The Americas	2072	3.87
+americas	The Americas	2073	3.81
+americas	The Americas	2074	3.75
+americas	The Americas	2075	3.69
+americas	The Americas	2076	3.64
+americas	The Americas	2077	3.58
+americas	The Americas	2078	3.52
+americas	The Americas	2079	3.47
+americas	The Americas	2080	3.42
+americas	The Americas	2081	3.37
+americas	The Americas	2082	3.31
+americas	The Americas	2083	3.27
+americas	The Americas	2084	3.22
+americas	The Americas	2085	3.17
+americas	The Americas	2086	3.13
+americas	The Americas	2087	3.08
+americas	The Americas	2088	3.03
+americas	The Americas	2089	2.99
+americas	The Americas	2090	2.95
+americas	The Americas	2091	2.9
+americas	The Americas	2092	2.86
+americas	The Americas	2093	2.82
+americas	The Americas	2094	2.79
+americas	The Americas	2095	2.74
+americas	The Americas	2096	2.7
+americas	The Americas	2097	2.67
+americas	The Americas	2098	2.63
+americas	The Americas	2099	2.6
+americas	The Americas	2100	2.59
